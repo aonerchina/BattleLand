@@ -1,9 +1,10 @@
 # BattleLand
-by a-one-r (A1iR)\n
+by a-one-r (A1iR)
 
-A bukkit plugin with lots of RPG Features\n
+A bukkit plugin with lots of RPG Features
 
 Simple introduce:
+
 1. Select an occupation.
 
 2. PvP. You can use special magic, depends on your occupation.
